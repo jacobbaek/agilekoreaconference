@@ -8,8 +8,9 @@ Agile Korea Conference Hands-on 세션중 사용될 example 및 사용가이드 
 - Jira Cloud : https://id.atlassian.com
 - Bitbucket Cloud : https://bitbucket.org
 
-[Jira Cloud Usage](files/java_cloud_manual.pdf)
-[Bitbucket Cloud Usage](files/bitbucket_cloud_manual.pdf)
+[Jira Cloud Usage](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/Jira_Cloud_manual.pdf)
+
+[Bitbucket Cloud Usage](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/Bitbucket_Cloud_manual.pdf)
 
 #### Project 생성
 
