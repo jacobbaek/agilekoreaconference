@@ -21,7 +21,7 @@ Agile Korea Conference Hands-on 세션중 사용될 example 및 사용가이드 
 
 #### Import Repository 
 - Bitbucket 에서 다음 Repository를 import 수행
-  - import 할 repository : bitbucket.org/<br>
+  - import 할 repository URL : https://bitbucket.org/oscikr/agilekoreaconf.git<br>
   [Bitbucket cloud import repository](files/Bitbucket+cloud+import+repository.pdf)
 
 ## Chapter 3 이슈 생성 및 개발 시작
