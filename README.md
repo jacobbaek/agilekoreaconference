@@ -8,10 +8,10 @@ Agile Korea Conference Hands-on 세션중 사용될 example 및 사용가이드 
 ## Chapter 2 Hands-on 준비
 #### 서비스 가입
 - Jira Cloud : https://id.atlassian.com<br>
-[Jira Cloud Usage](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/Jira_Cloud_manual.pdf)
+[Jira Cloud Usage](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/Jira%2Bcloud%2B%EC%A4%80%EB%B9%84.pdf)
 
 - Bitbucket Cloud : https://bitbucket.org<br>
-[Bitbucket Cloud Usage](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/Bitbucket_Cloud_manual.pdf)
+[Bitbucket Cloud Usage](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/Bitbucket%2Bcloud%2B%EC%A4%80%EB%B9%84.pdf)
 
 #### Project 생성
 - Jira 에서 다음 project들을 생성
