@@ -28,6 +28,7 @@ Agile Korea Conference Hands-on 세션중 사용될 example 및 사용가이드 
 
 ## Chapter 3 이슈 생성 및 개발 시작
 - Jira Service Desk(JSD) Project내 Service Request 생성
+  - (생성할 이슈) Login 기능 개발
 - Jira (JIRA) Project내 개발 Issue들 생성<br>
   [05. Jira cloud issue creation](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/05.%2BJira%2Bcloud%2Bissue%2Bcreation.pdf)
   - (생성할 이슈 #1) Login Frontend 개발
