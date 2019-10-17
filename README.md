@@ -4,6 +4,7 @@ Agile Korea Conference Hands-on 세션중 사용될 example 및 사용가이드 
 # Chapter 별 따라하기
 ## Chapter 1 Hands-on 소개
 [Atlassian으로 ITSM, CICD 흉내내기.pdf](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/AgileConferenceITSMCICD흉내내기.pdf)
+
 ## Chapter 2 Hands-on 준비
 #### Jira 서비스 가입
 > 사용되지 않았던 Atlassian 계정의 사용을 권장드립니다.
@@ -11,19 +12,19 @@ Agile Korea Conference Hands-on 세션중 사용될 example 및 사용가이드 
 [01. Jira Cloud Usage](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/01.%2BJira%2Bcloud%2Bprepare.pdf)
 
 #### Project 생성
-- Jira 에서 다음 project들을 생성
+- Jira 에서 다음 project들을 생성<br>
+[02. Jira cloud project creation](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/02.%2BJira%2Bcloud%2Bproject%2Bcreation.pdf)
   - 지라
-  - 서비스데스크<br>
-  [02. Jira cloud project creation](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/02.%2BJira%2Bcloud%2Bproject%2Bcreation.pdf)
+  - 서비스데스크
 
 #### Bitbucket 서비스 가입
 - Bitbucket Cloud : https://bitbucket.org<br>
 [03. Bitbucket Cloud Usage](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/03.%2BBitbucket%2Bcloud%2B%EC%A4%80%EB%B9%84.pdf)
 
 #### Import Repository 
-- Bitbucket 에서 다음 Repository를 import 수행
-  - import 할 repository URL : https://bitbucket.org/oscikr/agilekoreaconf.git<br>
+- Bitbucket 에서 다음 Repository를 import 수행<br>
   [04. Bitbucket cloud import repository](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/04.%2BBitbucket%2Bcloud%2Bimport%2Brepository.pdf)
+  - import 할 repository URL : https://bitbucket.org/oscikr/agilekoreaconf.git
 
 ## Chapter 3 이슈 생성 및 개발 시작
 - Jira Service Desk(서비스데스크) Project내 Service Request 생성
@@ -33,7 +34,7 @@ Agile Korea Conference Hands-on 세션중 사용될 example 및 사용가이드 
   [06. Jira cloud sprint](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/06.%2BJira%2Bcloud%2Bsprint.pdf)
 
 ## Chapter 4 Pipeline을 이용한 배포
-- Bitbucket pipeline 생성 및 빌드 확인<br>
+- Bitbucket pipeline 생성 및 빌드 확인, 그리고 배포 소개<br>
   [07. Bitbucket cloud pipeline](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/07.%2BBitbucket%2Bcloud%2Bpipeline.pdf)
 - AWS codedeploy를 이용한 배포 (Demo)
 
