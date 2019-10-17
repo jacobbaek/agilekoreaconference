@@ -8,7 +8,7 @@ Agile Korea Conference Hands-on 세션중 사용될 example 및 사용가이드 
 ## Chapter 2 Hands-on 준비
 #### Jira 서비스 가입
 > 사용되지 않았던 Atlassian 계정의 사용을 권장드립니다.
-- Jira Cloud : https://id.atlassian.com<br>
+- Jira Cloud : https://www.atlassian.com/software/jira/try <br>
 [01. Jira Cloud Usage](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/01.%2BJira%2Bcloud%2Bprepare.pdf)
 
 #### Project 생성
