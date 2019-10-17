@@ -14,8 +14,8 @@ Agile Korea Conference Hands-on 세션중 사용될 example 및 사용가이드 
 #### Project 생성
 - Jira 에서 다음 project들을 생성<br>
 [02. Jira cloud project creation](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/02.%2BJira%2Bcloud%2Bproject%2Bcreation.pdf)
-  - 지라
-  - 서비스데스크
+  - JIRA
+  - JSD
 
 #### Bitbucket 서비스 가입
 - Bitbucket Cloud : https://bitbucket.org<br>
@@ -27,10 +27,10 @@ Agile Korea Conference Hands-on 세션중 사용될 example 및 사용가이드 
   - import 할 repository URL : https://bitbucket.org/oscikr/agilekoreaconf.git
 
 ## Chapter 3 이슈 생성 및 개발 시작
-- Jira Service Desk(서비스데스크) Project내 Service Request 생성
-- Jira (지라) Project내 개발 Issue들 생성<br>
+- Jira Service Desk(JSD) Project내 Service Request 생성
+- Jira (JIRA) Project내 개발 Issue들 생성<br>
   [05. Jira cloud issue creation](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/05.%2BJira%2Bcloud%2Bissue%2Bcreation.pdf)
-- Jira (지라) Project내 Sprint 시작<br>
+- Jira (JIRA) Project내 Sprint 시작<br>
   [06. Jira cloud sprint](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/06.%2BJira%2Bcloud%2Bsprint.pdf)
 
 ## Chapter 4 Pipeline을 이용한 배포
