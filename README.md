@@ -22,7 +22,7 @@ Agile Korea Conference Hands-on 세션중 사용될 example 및 사용가이드 
 [03. Bitbucket Cloud Usage](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/03.%2BBitbucket%2Bcloud%2B%EC%A4%80%EB%B9%84.pdf)
 
 #### Import Repository 
-- Bitbucket 에서 다음 Repository를 import 수행<br>
+- Bitbucket 에서 제공된 URL을 import하고 DVCS 연동수행<br>
   [04. Bitbucket cloud import repository](https://github.com/jacobbaek/agilekoreaconference/blob/master/files/04.%2BBitbucket%2Bcloud%2Bimport%2Brepository.pdf)
   - import 할 repository URL : https://bitbucket.org/oscikr/agilekoreaconf.git
 
